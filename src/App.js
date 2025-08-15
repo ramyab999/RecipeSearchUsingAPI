@@ -1,5 +1,5 @@
 import React from "react";
-import RecipeSearch from "../Components/RecipeSearch";
+import RecipeSearch from "../src/Components/RecipeSearch";
 
 const App = () => {
   return <RecipeSearch />;
